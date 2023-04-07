@@ -1,0 +1,26 @@
+.form-control, .select2-container--default .select2-selection--single, .select2-container--default .select2-selection--single .select2-search__field, .typeahead, .tt-query, .tt-hint {
+    border: 1px solid #007bff4f;
+    font-weight: 400;
+    font-size: 0.875rem;
+}
+a.approve_btn_comments{
+    background: green;
+    color: white;
+    padding: 8px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+a.unapprove_btn_comments {
+    background: yellow;
+    color: black;
+    padding: 8px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+a.delete_btn_comments {
+    background: red;
+    color: white;
+    padding: 8px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
